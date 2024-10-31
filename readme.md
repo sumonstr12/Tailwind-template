@@ -22,4 +22,7 @@ Steps to set up the project locally:
     npm run dev
 
 
+if code is not works properly then just reset the css link from html files....
+
+
 # Enjoy.....!
